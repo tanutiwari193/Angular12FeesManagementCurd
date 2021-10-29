@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 4,
+      "firstName": "Vaibhavi",
+      "lastName": "Sharma",
+      "email": "vaibhavi@gmail.com",
+      "mobile": "8976567895",
+      "fees": "1000"
+    },
+    {
+      "id": 5,
+      "firstName": "Vaibhavi",
+      "lastName": "Sharma",
+      "email": "vaibhavi@gmail.com",
+      "mobile": "8976567895",
+      "fees": "8000"
+    },
+    {
+      "id": 6,
+      "firstName": "Divya ",
+      "lastName": "Tiwari",
+      "email": "divya@gmail.com",
+      "mobile": "8965785643",
+      "fees": "10000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
